@@ -94,7 +94,7 @@ The detected parts are highlighted in the image, and the system estimates repair
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sahilkhan-7/accident-damage-detection.git
+   git clone https://github.com/Wissemtriki/Accident-Damage-Detection-AI.git
    cd accident-damage-detection
    ```
 
